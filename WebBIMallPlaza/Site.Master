@@ -1,0 +1,136 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebBIMallPlaza.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head runat="server">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+
+   <link rel="stylesheet" href="css/estilosDgrados.css"/>
+   <link rel="stylesheet" href="css/estilos.css" />
+   <link rel="stylesheet" href="css/fontello.css" />
+   <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css' />
+    
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+	    #popup {
+		    left: 0;
+		    position: absolute;
+		    top: 0;
+		    width: 100%;
+		    z-index: 1001;
+	    }
+ 
+	    .content-popup {
+		    margin:0px auto;
+		    margin-top:120px;
+		    position:relative;
+		    padding:10px;
+		    width:500px;
+		    min-height:250px;
+		    border-radius:4px;
+		    background-color:#FFFFFF;
+		    box-shadow: 0 2px 5px #666666;
+	    }
+ 
+	    .content-popup h2 {
+		    color:#48484B;
+		    border-bottom: 1px solid #48484B;
+		    margin-top: 0;
+		    padding-bottom: 4px;
+	    }
+ 
+	    .popup-overlay {
+		    left: 0;
+		    position: absolute;
+		    top: 0;
+		    width: 100%;
+		    z-index: 999;
+		    display:none;
+		    background-color: #777777;
+		    cursor: pointer;
+		    opacity: 0.7;
+	    }
+ 
+	    .close {
+		    position: absolute;
+		    right: 15px;
+	    }
+	</style>
+
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#open').on('click', function () {
+                $('#popup').fadeIn('slow');
+                $('.popup-overlay').fadeIn('slow');
+                $('.popup-overlay').height($(window).height());
+                return false;
+            });
+
+            $('#close').on('click', function () {
+                $('#popup').fadeOut('slow');
+                $('.popup-overlay').fadeOut('slow');
+                return false;
+            });
+        });
+	</script>
+
+    <title>Mall Plaza</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <header>
+        <div class="contenedor-header">
+            <h1>Gestión de Proyectos</h1>
+    
+            <input type="checkbox" id="menu-bar" />
+            <label class="icon-menu" for="menu-bar"></label>
+                <nav class="menu">
+                    <a href="MenuPrincipal.aspx">Inicio</a>
+                    <a href="dfd">Mantenimiento</a>
+                    <a href="frmListadoProyectos.aspx">Proyecto</a>
+                    <a href="frmListadoProyectos.aspx">Proyecto</a>
+                    <a href="Login.aspx">Salir</a>
+                </nav>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentBody" runat="server">
+          
+            </asp:ContentPlaceHolder>
+
+            <div id="popup" style="display: none;">
+                <div class="content-popup">
+                    <div class="close"><a href="#" id="close"><img src="images/close.png"/></a></div>
+                    <div>
+                        <h2>Datos del Proyecto</h2>
+                        <asp:TextBox ID="txtCodProy" runat="server" CssClass="form-control" placeholder="Codigo del Proyecto"></asp:TextBox><br />
+                        <asp:TextBox ID="txtNomProy" runat="server" CssClass="form-control" placeholder="Nombre del Proyecto"></asp:TextBox><br />
+                        <asp:DropDownList ID="dropMall" runat="server" CssClass="form-control" placeholder="Seleccione un Mall"></asp:DropDownList><br />
+                        <asp:DropDownList ID="dropTipo" runat="server" CssClass="form-control" placeholder="Seleccione un Tipo"></asp:DropDownList><br />
+                        <asp:DropDownList ID="dropEstado" runat="server" CssClass="form-control" placeholder="Seleccione un Estado"></asp:DropDownList><br />
+                        <asp:DropDownList ID="dropCartera" runat="server" CssClass="form-control" placeholder="Seleccione una Cartera"></asp:DropDownList><br />
+                        <asp:TextBox ID="txtAreaTerreno" runat="server" CssClass="form-control" placeholder="Área del terreno"></asp:TextBox><br />
+                        <asp:TextBox ID="txtMt2Const" runat="server" CssClass="form-control" placeholder="Metros construidos"></asp:TextBox><br />
+                        <asp:TextBox ID="txtMt2Arrend" runat="server" CssClass="form-control" placeholder="Metros Arrendados"></asp:TextBox><br />
+                        <asp:TextBox ID="txtEjeObras" runat="server" CssClass="form-control" placeholder="Ejecución Obras"></asp:TextBox>
+    	            </div>
+                    <div style="padding-top:10px;">
+                        <asp:Button ID="btnAgregar" Text="Agregar" runat="server" CssClass="btn btn-primary" />
+                        <asp:Button ID="btnCancelar" Text="Cerrar" runat="server" CssClass="btn btn-primary" />
+                    </div>
+                </div>
+            </div>
+            <div class="popup-overlay"></div>
+        </div>
+    </header>
+    </form>
+</body>
+</html>

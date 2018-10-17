@@ -1,0 +1,12 @@
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\DABIMallPlaza\obj\Debug\DABIMallPlaza.csprojResolveAssemblyReference.cache
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\DABIMallPlaza\bin\Debug\DABIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\DABIMallPlaza\bin\Debug\DABIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\DABIMallPlaza\obj\Debug\DABIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\DABIMallPlaza\obj\Debug\DABIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\bin\Debug\DABIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\bin\Debug\DABIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\bin\Debug\BEBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\bin\Debug\BEBIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\obj\Debug\DABIMallPlaza.csprojResolveAssemblyReference.cache
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\obj\Debug\DABIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\DABIMallPlaza\obj\Debug\DABIMallPlaza.pdb

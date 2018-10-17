@@ -1,0 +1,274 @@
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebBIMallPlaza.dll.config
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebBIMallPlaza.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebBIMallPlaza.pdb
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Antlr3.Runtime.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\AspNet.ScriptManager.jQuery.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.SqlServer.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Web.Infrastructure.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Newtonsoft.Json.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Owin.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\System.Web.Optimization.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\System.Web.Providers.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebGrease.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\System.Web.Optimization.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Antlr3.Runtime.pdb
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Newtonsoft.Json.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.SqlServer.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\System.Web.Optimization.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\EntityFramework.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\System.Web.Providers.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.csprojResolveAssemblyReference.cache
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.dll
+C:\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebBIMallPlaza.dll.config
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebBIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebBIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Antlr3.Runtime.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\AspNet.ScriptManager.jQuery.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.SqlServer.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Newtonsoft.Json.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Owin.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\System.Web.Optimization.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\System.Web.Providers.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\WebGrease.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\System.Web.Optimization.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Antlr3.Runtime.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Newtonsoft.Json.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\EntityFramework.SqlServer.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\EntityFramework.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\System.Web.Providers.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.csprojResolveAssemblyReference.cache
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebBIMallPlaza.dll.config
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebBIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebBIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Antlr3.Runtime.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\AspNet.ScriptManager.jQuery.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.SqlServer.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Newtonsoft.Json.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Owin.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\System.Web.Optimization.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\System.Web.Providers.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebGrease.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\System.Web.Optimization.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Antlr3.Runtime.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Newtonsoft.Json.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.SqlServer.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\EntityFramework.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\System.Web.Providers.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.csprojResolveAssemblyReference.cache
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\BLBIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\DABIMallPlaza.dll
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\BLBIMallPlaza.pdb
+C:\Proyecto Plaza Mall\Dashboard Proyect\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\DABIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebBIMallPlaza.dll.config
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebBIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Antlr3.Runtime.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\AspNet.ScriptManager.jQuery.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\BEBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\BLBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.SqlServer.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Web.Infrastructure.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Newtonsoft.Json.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Owin.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\System.Web.Optimization.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\System.Web.Providers.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\WebGrease.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\DABIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\BEBIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\BLBIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\System.Web.Optimization.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Antlr3.Runtime.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Newtonsoft.Json.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\EntityFramework.SqlServer.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Google.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\DABIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\System.Web.Optimization.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\EntityFramework.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\EntityFramework.SqlServer.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\System.Web.Providers.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.csprojResolveAssemblyReference.cache
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\WebBIMallPlaza\obj\Debug\WebBIMallPlaza.pdb

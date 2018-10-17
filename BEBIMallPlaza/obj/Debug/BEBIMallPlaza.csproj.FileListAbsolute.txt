@@ -1,0 +1,5 @@
+D:\MALL PLAZA\WebBIMallPlaza_versionA\BEBIMallPlaza\bin\Debug\BEBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\BEBIMallPlaza\bin\Debug\BEBIMallPlaza.pdb
+D:\MALL PLAZA\WebBIMallPlaza_versionA\BEBIMallPlaza\obj\Debug\BEBIMallPlaza.csprojResolveAssemblyReference.cache
+D:\MALL PLAZA\WebBIMallPlaza_versionA\BEBIMallPlaza\obj\Debug\BEBIMallPlaza.dll
+D:\MALL PLAZA\WebBIMallPlaza_versionA\BEBIMallPlaza\obj\Debug\BEBIMallPlaza.pdb

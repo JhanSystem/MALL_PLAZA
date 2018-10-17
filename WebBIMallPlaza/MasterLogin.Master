@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterLogin.master.cs" Inherits="WebBIMallPlaza.MasterLogin" %>
+
+<!DOCTYPE html >
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head id="cabecera" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <link href="~/Content/Site.css" type="text/css" rel="stylesheet"/>
+    <title>Mall Plaza - Dashboard</title>
+    <link rel="icon" type="image/png"  />
+    <link href="~/iconoMallPlaza.ico" rel="shortcut icon" type="image/x-icon" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="container">
+            <div id="pagName">
+            <h1>Mall Plaza</h1>
+		    <h2>Gestión de Proyectos de Inversión</h2>
+            </div>        
+          <div class="divNavegar"></div>
+          <div id="wrap">
+              <div id="content" style="overflow:auto;height:auto; min-height:500px;">
+               <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+               </asp:ContentPlaceHolder>
+              </div>
+              <div class="clearingdiv"></div>
+            </div>
+        </div>
+        <div id="footer">
+            <p>&copy; 2018 <a>Mall Plaza - Gestión de Proyectos</a> </p>
+       </div>
+    </form>
+</body>
+</html>
